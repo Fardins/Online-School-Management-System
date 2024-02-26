@@ -1,0 +1,1 @@
+We want to manage a school functionality and all activities properly to use this system. Now we can manage all things in computer. For this system we can manage large amount of data in small time. It is very time consuming process. This system is specially designed for an educational purpose for school.
